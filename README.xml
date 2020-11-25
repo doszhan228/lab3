@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<catalog>
+   <table id="1">
+      <number>1</number>
+      <student>Ivanov</student>
+      <grade>5</grade>
+   </table>
+   <table id="2">
+      <number>2</number>
+      <student>Petrov</student>
+      <grade>4</grade>
+   </table>
+   <table id="3">
+      <number>3</number>
+      <student>Sidorov</student>
+      <grade>2</grade>
+   </table>
+</catalog>
+
+
